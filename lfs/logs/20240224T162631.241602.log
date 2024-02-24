@@ -1,0 +1,43 @@
+git-lfs/3.4.1 (GitHub; windows amd64; go 1.20.11; git 0898dcbc)
+git version 2.44.0.windows.1
+
+$ git-lfs prune
+Prune error: error in `git log`: exit status 128 fatal: not a git repository (or any of the parent directories): .git
+
+Prune error: Git can't resolve ref: "HEAD"
+
+Git can't resolve ref: "HEAD"
+
+Current time in UTC:
+2024-02-24 09:26:31
+
+Environment:
+LocalWorkingDir=
+LocalGitDir=
+LocalGitStorageDir=
+LocalMediaDir=lfs\objects
+LocalReferenceDirs=
+TempDir=lfs\tmp
+ConcurrentTransfers=8
+TusTransfers=false
+BasicTransfersOnly=false
+SkipDownloadErrors=false
+FetchRecentAlways=false
+FetchRecentRefsDays=7
+FetchRecentCommitsDays=0
+FetchRecentRefsIncludeRemotes=true
+PruneOffsetDays=3
+PruneVerifyRemoteAlways=false
+PruneRemoteName=origin
+LfsStorageDir=lfs
+AccessDownload=none
+AccessUpload=none
+DownloadTransfers=basic,lfs-standalone-file,ssh
+UploadTransfers=basic,lfs-standalone-file,ssh
+GIT_ASKPASS=c:\Users\admin\AppData\Local\Programs\Microsoft VS Code\resources\app\extensions\git\dist\askpass.sh
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+
+Client IP addresses:
+fe80::b3d:6a7:52aa:959d 192.168.175.1
+fe80::41ff:7043:a40d:df77 192.168.232.1
+2405:4803:fe21:d8d0:dacc:fa8c:b92f:2759 2405:4803:fe21:d8d0:80ef:bdf3:a51c:b48c fe80::b2f1:d7ed:c5ec:3d95 192.168.1.15
